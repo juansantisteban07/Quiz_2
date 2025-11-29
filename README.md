@@ -11,6 +11,10 @@
 
 6. 🦀 Funcionalidad mínima viable (MVP): Versión básica de un producto para validación temprana.
 
+7. ⚽ Code Signing: El uso de firmas digitales para verificar que el software no ha sido manipulado desde su publicación.
+
+
+
 
 
 
