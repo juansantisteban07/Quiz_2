@@ -10,10 +10,8 @@
 5. 👀 Dominio: Nombre unico que identifica un sitio web por internet.
 
 6. 🦀 Funcionalidad mínima viable (MVP): Versión básica de un producto para validación temprana.
-
-7. ⚽ Code Signing: El uso de firmas digitales para verificar que el software no ha sido manipulado desde su publicación.
-   
-8. 🎶 Router : Dispositivo de red que se encarga de dirigir el tráfico de datos entre diferentes redes, normalmente entre la red local (LAN) y el internet. Es el encargado de asignar direcciones IP internas y de permitir que múltiples dispositivos se conecten a una misma conexión de internet.
+ 
+7. 🎶 Router : Dispositivo de red que se encarga de dirigir el tráfico de datos entre diferentes redes, normalmente entre la red local (LAN) y el internet. Es el encargado de asignar direcciones IP internas y de permitir que múltiples dispositivos se conecten a una misma conexión de internet.
 
 
 
